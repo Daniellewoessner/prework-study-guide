@@ -26,6 +26,9 @@ footer {
       background-color: blue;
       color: white;
    }
+   li{
+      font-size:medium;
+   }
    img{
       display: block;
       height: 50px;
@@ -36,7 +39,7 @@ footer {
    }
     ul{
       padding-left: 40px;
-      font-size: 20px;
+      font-size: medium;
    }
    p {
       text-align: center;
